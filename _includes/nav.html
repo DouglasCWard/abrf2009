@@ -1,0 +1,30 @@
+<!-- header Nav Start -->
+<nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <div class="row ">
+         <div class="col-sm-6 text-center">
+            <div class="navbar-header">
+               <a class="navbar-brand" href="index.html">
+               <img src="img/hed1.jpg" alt="ABRF 2009 | Application and Optimization of Existing and Emerging Biotechnologies">
+               </a>
+            </div>
+         </div>
+         <div class="col-sm-6 text-center">
+            <div class="navbar-header">
+               <img src="img/hed2.jpg" alt="An International Symposium by the Association of Biomolecular Resource Facilities | February 7-10, 2009 | Memphis, Tennessee">
+            </div>
+         </div>
+      </div>
+    <!-- /.container-fluid -->
+ </nav>
+
+ <div class="row ">
+   <div class="col-sm-12">
+         <ul class="nav navbar-nav">
+           <li {% if page.url == "/index.html" %}class="active"{% endif %}><a href="index.html">Home</a></li>
+           <li {% if page.url == "/register.html" %}class="active"{% endif %}><a href="/register.html">Register as an Attendee</a></li>
+            <li {% if page.url == "/registration.html" %}class="active"{% endif %}><a href="registration.html">Register as an Exhibitor</a></li>
+            <li {% if page.url == "/abstract_submission.html" %}class="active"{% endif %}><a href="abstract_submission.html">Abstract Submission</a></li>
+         </ul>
+   </div>
+</div>

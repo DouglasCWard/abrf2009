@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABRF</title>
+    <description>ABRF 2009 | Application and Optimization of Existing and Emerging Biotechnologies</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 21 Feb 2024 15:08:38 -0500</pubDate>
+    <lastBuildDate>Wed, 21 Feb 2024 15:08:38 -0500</lastBuildDate>
+    <generator>Jekyll v4.3.3</generator>
+    
+      <item>
+        <title>Default ABRF Content</title>
+        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh viverra non semper suscipit posuere a pede.&lt;/p&gt;
+
+&lt;p&gt;Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci. Aenean dignissim pellentesque felis.&lt;/p&gt;
+
+&lt;p&gt;Morbi in sem quis dui placerat ornare. Pellentesque odio nisi euismod in pharetra a ultricies in diam. Sed arcu. Cras consequat.&lt;/p&gt;
+
+&lt;p&gt;Praesent dapibus neque id cursus faucibus tortor neque egestas auguae eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi tincidunt quis accumsan porttitor facilisis luctus metus.&lt;/p&gt;
+
+&lt;p&gt;Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam gravida non commodo a sodales sit amet nisi.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Feb 2024 12:00:00 -0500</pubDate>
+        <link>http://localhost:4000/news/jekyll/default-abrf-content.html</link>
+        <guid isPermaLink="true">http://localhost:4000/news/jekyll/default-abrf-content.html</guid>
+        
+        
+        <category>news</category>
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
